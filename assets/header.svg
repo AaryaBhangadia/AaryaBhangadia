@@ -1,0 +1,14 @@
+<svg width="1280" height="230" viewBox="0 0 1280 230" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Courier New', monospace">
+  <rect width="1280" height="230" fill="#0d1117"/>
+  <text x="30" y="35" font-size="13" letter-spacing="2" fill="#8b8b93">PORTFOLIO — INDEX Nº 001</text>
+  <text x="1250" y="35" font-size="13" letter-spacing="2" fill="#8b8b93" text-anchor="end">NAGPUR, IN — 21.14° N</text>
+  <line x1="30" y1="50" x2="1250" y2="50" stroke="#2a2a33" stroke-width="1"/>
+
+  <text x="30" y="120" font-size="58" fill="#ffffff" font-weight="bold">Aarya Bhangadia</text>
+  <text x="30" y="150" font-size="17" fill="#c9c9d1">AI/ML Developer — Computer Vision, Python.</text>
+
+  <text x="30" y="182" font-size="13" fill="#9a9aa3">focus ▸  computer vision · applied machine learning · AI-native applications</text>
+  <text x="30" y="202" font-size="13" fill="#9a9aa3">open to ▸  internships · collaboration · research</text>
+
+  <line x1="30" y1="215" x2="1250" y2="215" stroke="#2a2a33" stroke-width="1"/>
+</svg>
