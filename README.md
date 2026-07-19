@@ -1,19 +1,26 @@
-<h1 align="center">Hi 👋, I'm Aarya Bhangadia</h1>
-<h3 align="center">🔭 I’m currently working on Computer Vision and AI-based projects using Python . 👯 I’m looking to collaborate on Machine Learning, Computer Vision, and Web Development projects. 🤝 I’m looking for help with improving ML models and building scalable AI applications. 🌱 I’m currently learning Deep Learning, System Design, and advanced Data Structures & Algorithms. 💬 Ask me about Python, Machine Learning, Computer Vision (OpenCV), JavaScript, HTML/CSS, and DSA.</h3>
+<div align="center">
 
-- 🔭 I’m currently working onVoice-based-E--commerce-Billing [Voice-based-E--commerce-Billing](https://github.com/bhangadiaau-ui/Voice-based-E--commerce-Billing)
+<img src="assets/header.svg" alt="Aarya Bhangadia" width="100%"/>
 
-- 📫 How to reach me **aryabhangadia@gmail.com**
+<a href="mailto:aryabhangadia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logoColor=ffffff" alt="Email"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
 
-- ⚡ Fun fact: **I enjoy building real-world AI projects and turning ideas into working applications.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aarya-bhangadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aarya-bhangadia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aaryaa2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aaryaa2005/" height="30" width="40" /></a>
-</p>
+<img src="assets/whoami.svg" alt="Whoami"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="assets/projects.svg" alt="Projects"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhangadiaau-ui&show_icons=true&locale=en&layout=compact" alt="bhangadiaau-ui" /></p>
+<img src="assets/telemetry.svg" alt="Telemetry"/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AaryaBhangadia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaBhangadia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaBhangadia&theme=tokyonight&hide_border=true&background=0d1117" width="48%" alt="Streak Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryaBhangadia&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="48%" alt="Contribution Graph"/>
+
+</div>
+
+<img src="assets/stack.svg" alt="Stack"/>
