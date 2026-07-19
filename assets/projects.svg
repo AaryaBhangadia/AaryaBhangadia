@@ -1,31 +1,31 @@
-<svg width="1150" height="600" viewBox="0 0 1150 600" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
-  <rect width="1150" height="600" fill="#0d1117"/>
+<svg width="1150" height="660" viewBox="0 0 1150 660" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
+  <rect width="1150" height="660" fill="#0d1117"/>
 
-  <text x="0" y="45" font-size="46" fill="#ffffff" font-weight="bold">03</text>
-  <text x="70" y="40" font-size="16" letter-spacing="3" fill="#e6e6ec">PROJECTS</text>
-  <line x1="220" y1="33" x2="990" y2="33" stroke="#2a2a33" stroke-width="1"/>
-  <text x="1150" y="40" font-size="12" fill="#6f6f78" text-anchor="end">~/03-projects</text>
+  <text x="0" y="52" font-size="56" fill="#ffffff" font-weight="bold">03</text>
+  <text x="80" y="46" font-size="18" letter-spacing="3" fill="#e6e6ec">PROJECTS</text>
+  <line x1="240" y1="38" x2="990" y2="38" stroke="#2a2a33" stroke-width="1"/>
+  <text x="1150" y="46" font-size="13" fill="#6f6f78" text-anchor="end">~/03-projects</text>
 
-  <text x="0" y="105" font-size="16" fill="#ffffff" font-weight="bold">01 / VOICE-BASED E-COMMERCE BILLING</text>
-  <text x="0" y="130" font-size="13" fill="#b7b7bf">A hands-free billing system for e-commerce, using real-time voice recognition</text>
-  <text x="0" y="150" font-size="13" fill="#b7b7bf">to process transactions without manual entry.</text>
-  <text x="0" y="174" font-size="12" fill="#7c7c85">PYTHON · SPEECH RECOGNITION · E-COMMERCE</text>
-  <line x1="0" y1="196" x2="1150" y2="196" stroke="#20202a" stroke-width="1"/>
+  <text x="0" y="115" font-size="19" fill="#ffffff" font-weight="bold">01 / VOICE-BASED E-COMMERCE BILLING</text>
+  <text x="0" y="144" font-size="15" fill="#b7b7bf">A hands-free billing system for e-commerce, using real-time voice recognition</text>
+  <text x="0" y="167" font-size="15" fill="#b7b7bf">to process transactions without manual entry.</text>
+  <text x="0" y="194" font-size="13" fill="#7c7c85">PYTHON · SPEECH RECOGNITION · E-COMMERCE</text>
+  <line x1="0" y1="220" x2="1150" y2="220" stroke="#20202a" stroke-width="1"/>
 
-  <text x="0" y="234" font-size="16" fill="#ffffff" font-weight="bold">02 / NEURALDOCS-RAG</text>
-  <text x="0" y="259" font-size="13" fill="#b7b7bf">A Retrieval-Augmented Generation system for intelligent document search,</text>
-  <text x="0" y="279" font-size="13" fill="#b7b7bf">enabling natural-language Q&amp;A over document sets.</text>
-  <text x="0" y="303" font-size="12" fill="#7c7c85">PYTHON · RAG · LLM · VECTOR SEARCH</text>
-  <line x1="0" y1="325" x2="1150" y2="325" stroke="#20202a" stroke-width="1"/>
+  <text x="0" y="260" font-size="19" fill="#ffffff" font-weight="bold">02 / NEURALDOCS-RAG</text>
+  <text x="0" y="289" font-size="15" fill="#b7b7bf">A Retrieval-Augmented Generation system for intelligent document search,</text>
+  <text x="0" y="312" font-size="15" fill="#b7b7bf">enabling natural-language Q&amp;A over document sets.</text>
+  <text x="0" y="339" font-size="13" fill="#7c7c85">PYTHON · RAG · LLM · VECTOR SEARCH</text>
+  <line x1="0" y1="365" x2="1150" y2="365" stroke="#20202a" stroke-width="1"/>
 
-  <text x="0" y="363" font-size="16" fill="#ffffff" font-weight="bold">03 / AI-ROCK-PAPER-SCISSORS</text>
-  <text x="0" y="388" font-size="13" fill="#b7b7bf">A computer vision game that recognizes hand gestures in real time</text>
-  <text x="0" y="408" font-size="13" fill="#b7b7bf">and plays against you.</text>
-  <text x="0" y="432" font-size="12" fill="#7c7c85">PYTHON · OPENCV · COMPUTER VISION</text>
-  <line x1="0" y1="454" x2="1150" y2="454" stroke="#20202a" stroke-width="1"/>
+  <text x="0" y="405" font-size="19" fill="#ffffff" font-weight="bold">03 / AI-ROCK-PAPER-SCISSORS</text>
+  <text x="0" y="434" font-size="15" fill="#b7b7bf">A computer vision game that recognizes hand gestures in real time</text>
+  <text x="0" y="457" font-size="15" fill="#b7b7bf">and plays against you.</text>
+  <text x="0" y="484" font-size="13" fill="#7c7c85">PYTHON · OPENCV · COMPUTER VISION</text>
+  <line x1="0" y1="510" x2="1150" y2="510" stroke="#20202a" stroke-width="1"/>
 
-  <text x="0" y="492" font-size="16" fill="#ffffff" font-weight="bold">04 / SECURE-LOG-ANALYZER</text>
-  <text x="0" y="517" font-size="13" fill="#b7b7bf">A tool that parses system logs and flags anomalies for security review.</text>
-  <text x="0" y="551" font-size="12" fill="#7c7c85">PYTHON · SECURITY · LOG ANALYSIS</text>
-  <line x1="0" y1="573" x2="1150" y2="573" stroke="#20202a" stroke-width="1"/>
+  <text x="0" y="550" font-size="19" fill="#ffffff" font-weight="bold">04 / SECURE-LOG-ANALYZER</text>
+  <text x="0" y="579" font-size="15" fill="#b7b7bf">A tool that parses system logs and flags anomalies for security review.</text>
+  <text x="0" y="606" font-size="13" fill="#7c7c85">PYTHON · SECURITY · LOG ANALYSIS</text>
+  <line x1="0" y1="632" x2="1150" y2="632" stroke="#20202a" stroke-width="1"/>
 </svg>
