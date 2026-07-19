@@ -6,7 +6,7 @@
   <line x1="220" y1="33" x2="990" y2="33" stroke="#2a2a33" stroke-width="1"/>
   <text x="1150" y="40" font-size="12" fill="#6f6f78" text-anchor="end">~/01-whoami</text>
 
-  <text x="0" y="90" font-size="15" fill="#e6e6ec">[YEAR] student at [COLLEGE NAME], Nagpur.</text>
+  <text x="0" y="90" font-size="15" fill="#e6e6ec">Final Year student at Shri Ramdeobaba College Of Engineering And Management, Nagpur.</text>
   <text x="0" y="118" font-size="15" fill="#e6e6ec">building AI &amp; computer vision systems — Python · OpenCV · RAG pipelines.</text>
   <text x="0" y="146" font-size="15" fill="#e6e6ec">drawn to projects that turn ideas into working, real-world applications.</text>
 
