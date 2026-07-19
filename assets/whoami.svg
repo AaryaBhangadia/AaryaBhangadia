@@ -1,20 +1,22 @@
-<svg width="1150" height="320" viewBox="0 0 1150 320" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
-  <rect width="1150" height="320" fill="#0d1117"/>
+<svg width="1150" height="340" viewBox="0 0 1150 340" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
+  <rect width="1150" height="340" fill="#0d1117"/>
 
-  <text x="0" y="52" font-size="56" fill="#ffffff" font-weight="bold">01</text>
-  <text x="80" y="46" font-size="18" letter-spacing="3" fill="#e6e6ec">WHOAMI</text>
-  <line x1="250" y1="38" x2="990" y2="38" stroke="#2a2a33" stroke-width="1"/>
-  <text x="1150" y="46" font-size="13" fill="#6f6f78" text-anchor="end">~/01-whoami</text>
+  <text x="0" y="56" font-size="62" fill="#ffffff" font-weight="bold">01</text>
+  <text x="90" y="48" font-size="20" letter-spacing="3" fill="#e6e6ec">WHOAMI</text>
+  <line x1="270" y1="40" x2="990" y2="40" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
+    <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
+  </line>
+  <text x="1150" y="48" font-size="13" fill="#6f6f78" text-anchor="end">~/01-whoami</text>
 
-  <text x="0" y="100" font-size="17" fill="#e6e6ec">Final Year student at Shri Ramdeobaba College Of Engineering And Management, Nagpur.</text>
-  <text x="0" y="132" font-size="17" fill="#e6e6ec">building AI &amp; computer vision systems — Python · OpenCV · RAG pipelines.</text>
-  <text x="0" y="164" font-size="17" fill="#e6e6ec">drawn to projects that turn ideas into working, real-world applications.</text>
+  <text x="0" y="108" font-size="19" fill="#e6e6ec">Final Year student at Shri Ramdeobaba College Of Engineering And Management, Nagpur.</text>
+  <text x="0" y="142" font-size="19" fill="#e6e6ec">building AI &amp; computer vision systems — Python · OpenCV · RAG pipelines.</text>
+  <text x="0" y="176" font-size="19" fill="#e6e6ec">drawn to projects that turn ideas into working, real-world applications.</text>
 
-  <line x1="0" y1="192" x2="1150" y2="192" stroke="#2a2a33" stroke-width="1"/>
+  <line x1="0" y1="206" x2="1150" y2="206" stroke="#2a2a33" stroke-width="1"/>
 
-  <text x="0" y="232" font-size="13" fill="#7c7c85">FOCUS</text>
-  <text x="150" y="232" font-size="15" fill="#d6d6dc">Computer Vision · Machine Learning · Web Development</text>
+  <text x="0" y="248" font-size="14" fill="#7c7c85">FOCUS</text>
+  <text x="160" y="248" font-size="17" fill="#d6d6dc">Computer Vision · Machine Learning · Web Development</text>
 
-  <text x="0" y="270" font-size="13" fill="#7c7c85">STATUS</text>
-  <text x="150" y="270" font-size="15" fill="#d6d6dc">open to collaboration · learning Deep Learning &amp; System Design</text>
+  <text x="0" y="288" font-size="14" fill="#7c7c85">STATUS</text>
+  <text x="160" y="288" font-size="17" fill="#d6d6dc">open to collaboration · learning Deep Learning &amp; System Design</text>
 </svg>
