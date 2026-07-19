@@ -1,39 +1,32 @@
 <svg width="1150" height="420" viewBox="0 0 1150 420" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
-  <rect width="1150" height="420" fill="#0d1117"/>
+  <style>
+    .reveal { stroke-dasharray: 760; stroke-dashoffset: 760; animation: revealline 1.3s cubic-bezier(.4,0,.2,1) .3s forwards; }
+    @keyframes revealline { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .reveal { animation: none; stroke-dashoffset: 0; } }
+  </style>
 
+  <rect width="1150" height="420" fill="#0d1117"/>
   <text x="0" y="56" font-size="62" fill="#ffffff" font-weight="bold">05</text>
   <text x="90" y="48" font-size="20" letter-spacing="3" fill="#e6e6ec">STACK</text>
-  <line x1="230" y1="40" x2="990" y2="40" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
-    <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
-  </line>
+  <line class="reveal" x1="230" y1="40" x2="990" y2="40" stroke="#c9c9d1" stroke-width="1"/>
   <text x="1150" y="48" font-size="13" fill="#6f6f78" text-anchor="end">~/05-stack</text>
-
   <line x1="180" y1="78" x2="180" y2="320" stroke="#2a2a33" stroke-width="1"/>
-
   <text x="0" y="114" font-size="14" fill="#7c7c85">LANGUAGES</text>
   <text x="200" y="114" font-size="17" fill="#d6d6dc">Python · JavaScript · Java · HTML/CSS</text>
-
   <text x="0" y="154" font-size="14" fill="#7c7c85">AI / ML</text>
   <text x="200" y="154" font-size="17" fill="#d6d6dc">OpenCV · Deep Learning · RAG · scikit-learn</text>
-
   <text x="0" y="194" font-size="14" fill="#7c7c85">WEB</text>
   <text x="200" y="194" font-size="17" fill="#d6d6dc">React · Node.js</text>
-
   <text x="0" y="234" font-size="14" fill="#7c7c85">DATA</text>
   <text x="200" y="234" font-size="17" fill="#d6d6dc">MongoDB · MySQL</text>
-
   <text x="0" y="274" font-size="14" fill="#7c7c85">CLOUD</text>
   <text x="200" y="274" font-size="17" fill="#d6d6dc">AWS · Firebase</text>
-
   <text x="0" y="314" font-size="14" fill="#7c7c85">TOOLING</text>
   <text x="200" y="314" font-size="17" fill="#d6d6dc">Git · Linux · Oracle</text>
-
   <line x1="0" y1="348" x2="1150" y2="348" stroke="#2a2a33" stroke-width="1"/>
-
   <circle cx="10" cy="378" r="5" fill="#3ddc84"/>
   <text x="26" y="384" font-size="17" fill="#e6e6ec" font-weight="bold">STATUS — LEARNING</text>
   <text x="26" y="406" font-size="14" fill="#8b8b93">currently diving into deep learning &amp; system design</text>
-
   <text x="1150" y="384" font-size="14" fill="#7c7c85" text-anchor="end">Nagpur, IN</text>
   <text x="1150" y="406" font-size="14" fill="#7c7c85" text-anchor="end">© 2026</text>
 </svg>
