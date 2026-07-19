@@ -1,38 +1,44 @@
-<svg width="1150" height="280" viewBox="0 0 1150 280" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
-  <rect width="1150" height="280" fill="#0d1117"/>
+<svg width="1150" height="320" viewBox="0 0 1150 320" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
+  <style>
+    .reveal { stroke-dasharray: 700; stroke-dashoffset: 700; animation: revealline 1.3s cubic-bezier(.4,0,.2,1) .3s forwards; }
+    @keyframes revealline { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .reveal { animation: none; stroke-dashoffset: 0; } }
+  </style>
 
+  <rect width="1150" height="320" fill="#0d1117"/>
   <text x="0" y="56" font-size="62" fill="#ffffff" font-weight="bold">04</text>
   <text x="90" y="48" font-size="20" letter-spacing="3" fill="#e6e6ec">THE ROUTE</text>
-  <line x1="290" y1="40" x2="990" y2="40" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
-    <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
-  </line>
+  <line class="reveal" x1="290" y1="40" x2="990" y2="40" stroke="#c9c9d1" stroke-width="1"/>
   <text x="1150" y="48" font-size="13" fill="#6f6f78" text-anchor="end">~/04-journey</text>
-
   <line x1="0" y1="118" x2="1150" y2="118" stroke="#3a3a45" stroke-width="1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
     <animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.2s" begin="0.2s" fill="freeze"/>
   </line>
-
-  <circle cx="60" cy="118" r="5" fill="#ffffff"/>
-  <text x="60" y="96" font-size="14" fill="#e6e6ec" text-anchor="middle">2023</text>
-  <text x="60" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">degree started</text>
-
-  <circle cx="420" cy="118" r="5" fill="#ffffff"/>
-  <text x="420" y="96" font-size="14" fill="#e6e6ec" text-anchor="middle">2024</text>
-  <text x="420" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">started coding</text>
-
-  <circle cx="780" cy="118" r="5" fill="#ffffff"/>
-  <text x="780" y="96" font-size="14" fill="#e6e6ec" text-anchor="middle">2025</text>
-  <text x="780" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">first commit — Aug</text>
-
-  <circle cx="1090" cy="118" r="5" fill="#3ddc84"/>
-  <text x="1090" y="96" font-size="14" fill="#3ddc84" text-anchor="middle">now</text>
-  <text x="1090" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">building AI/CV projects</text>
-
+  <circle cx="40" cy="118" r="5" fill="#ffffff"/>
+  <text x="40" y="96" font-size="13" fill="#e6e6ec" text-anchor="middle">2023</text>
+  <text x="40" y="142" font-size="12" fill="#8b8b93" text-anchor="middle">degree started</text>
+  <circle cx="218" cy="118" r="5" fill="#ffffff"/>
+  <text x="218" y="96" font-size="13" fill="#e6e6ec" text-anchor="middle">2024</text>
+  <text x="218" y="142" font-size="12" fill="#8b8b93" text-anchor="middle">started coding</text>
+  <circle cx="397" cy="118" r="5" fill="#ffffff"/>
+  <text x="397" y="96" font-size="13" fill="#e6e6ec" text-anchor="middle">Aug '25</text>
+  <text x="397" y="142" font-size="12" fill="#8b8b93" text-anchor="middle">first commit</text>
+  <circle cx="575" cy="118" r="5" fill="#ffffff"/>
+  <text x="575" y="96" font-size="13" fill="#e6e6ec" text-anchor="middle">Jan '26</text>
+  <text x="575" y="142" font-size="12" fill="#8b8b93" text-anchor="middle">secure-log-analyzer</text>
+  <circle cx="753" cy="118" r="5" fill="#ffffff"/>
+  <text x="753" y="96" font-size="13" fill="#e6e6ec" text-anchor="middle">Feb '26</text>
+  <text x="753" y="142" font-size="12" fill="#8b8b93" text-anchor="middle">rock-paper-scissors</text>
+  <circle cx="932" cy="118" r="5" fill="#ffffff"/>
+  <text x="932" y="96" font-size="13" fill="#e6e6ec" text-anchor="middle">Mar '26</text>
+  <text x="932" y="142" font-size="12" fill="#8b8b93" text-anchor="middle">voice-billing</text>
+  <circle cx="1110" cy="118" r="5" fill="#3ddc84"/>
+  <text x="1110" y="96" font-size="13" fill="#3ddc84" text-anchor="middle">now</text>
+  <text x="1110" y="142" font-size="12" fill="#8b8b93" text-anchor="middle">neuraldocs-rag</text>
   <line x1="0" y1="182" x2="1150" y2="182" stroke="#2a2a33" stroke-width="1"/>
-
   <text x="0" y="220" font-size="14" fill="#7c7c85">2023 —</text>
   <text x="140" y="220" font-size="17" fill="#d6d6dc">B.Tech, Shri Ramdeobaba College Of Engineering And Management</text>
-
   <text x="0" y="256" font-size="14" fill="#7c7c85">2025 —</text>
-  <text x="140" y="256" font-size="17" fill="#d6d6dc">Building AI/ML &amp; computer vision projects — Python, OpenCV, RAG</text>
+  <text x="140" y="256" font-size="17" fill="#d6d6dc">First commit in August — began shipping projects in Python, OpenCV, RAG</text>
+  <text x="0" y="292" font-size="14" fill="#7c7c85">2026 —</text>
+  <text x="140" y="292" font-size="17" fill="#d6d6dc">Shipped secure-log-analyzer, AI-Rock-Paper-Scissors, voice-billing, NeuralDocs-RAG</text>
 </svg>
