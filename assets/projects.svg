@@ -3,9 +3,13 @@
 
   <text x="0" y="56" font-size="62" fill="#ffffff" font-weight="bold">02</text>
   <text x="90" y="48" font-size="20" letter-spacing="3" fill="#e6e6ec">PROJECTS</text>
-  <line x1="260" y1="40" x2="990" y2="40" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
-    <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
-  </line>
+  <style>
+  .reveal { stroke-dasharray: 730; stroke-dashoffset: 730; animation: draw 1.3s cubic-bezier(.4,0,.2,1) .3s forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { .reveal { animation: none; stroke-dashoffset: 0; } }
+   </style>
+   ...
+  <line class="reveal" x1="260" y1="40" x2="990" y2="40" stroke="#c9c9d1" stroke-width="1"/>
   <text x="1150" y="48" font-size="13" fill="#6f6f78" text-anchor="end">~/02-projects</text>
 
   <text x="0" y="122" font-size="21" fill="#ffffff" font-weight="bold">01 / VOICE-BASED E-COMMERCE BILLING</text>
