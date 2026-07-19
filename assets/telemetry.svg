@@ -1,0 +1,31 @@
+<svg width="1150" height="330" viewBox="0 0 1150 330" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Courier New', monospace">
+  <rect width="1150" height="330" fill="#0d1117"/>
+
+  <text x="0" y="45" font-size="46" fill="#ffffff" font-weight="bold">04</text>
+  <text x="70" y="40" font-size="16" letter-spacing="3" fill="#e6e6ec">TELEMETRY</text>
+  <line x1="270" y1="33" x2="990" y2="33" stroke="#2a2a33" stroke-width="1"/>
+  <text x="1150" y="40" font-size="12" fill="#6f6f78" text-anchor="end">~/04-telemetry</text>
+
+  <rect x="0" y="70" width="360" height="230" fill="none" stroke="#2a2a33" stroke-width="1"/>
+  <text x="20" y="100" font-size="13" letter-spacing="1" fill="#e6e6ec">REPOSITORY OVERVIEW</text>
+  <line x1="20" y1="112" x2="340" y2="112" stroke="#20202a" stroke-width="1"/>
+
+  <text x="20" y="150" font-size="13" fill="#b7b7bf">Public repositories</text>
+  <text x="340" y="150" font-size="13" fill="#ffffff" text-anchor="end">5</text>
+
+  <text x="20" y="184" font-size="13" fill="#b7b7bf">Contributions (last year)</text>
+  <text x="340" y="184" font-size="13" fill="#ffffff" text-anchor="end">55</text>
+
+  <text x="20" y="218" font-size="13" fill="#b7b7bf">Primary language</text>
+  <text x="340" y="218" font-size="13" fill="#ffffff" text-anchor="end">Python</text>
+
+  <text x="20" y="252" font-size="13" fill="#b7b7bf">Focus area</text>
+  <text x="340" y="252" font-size="13" fill="#ffffff" text-anchor="end">AI / CV</text>
+
+  <rect x="390" y="70" width="760" height="230" fill="none" stroke="#2a2a33" stroke-width="1"/>
+  <text x="410" y="100" font-size="13" letter-spacing="1" fill="#e6e6ec">LIVE DATA</text>
+  <line x1="410" y1="112" x2="1130" y2="112" stroke="#20202a" stroke-width="1"/>
+  <text x="410" y="150" font-size="13" fill="#b7b7bf">Language distribution, streaks, and commit activity are</text>
+  <text x="410" y="172" font-size="13" fill="#b7b7bf">rendered live below via GitHub stats widgets — always</text>
+  <text x="410" y="194" font-size="13" fill="#b7b7bf">current, no manual updates needed.</text>
+</svg>
