@@ -1,34 +1,38 @@
-<svg width="1150" height="260" viewBox="0 0 1150 260" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
-  <rect width="1150" height="260" fill="#0d1117"/>
+<svg width="1150" height="280" viewBox="0 0 1150 280" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
+  <rect width="1150" height="280" fill="#0d1117"/>
 
-  <text x="0" y="52" font-size="56" fill="#ffffff" font-weight="bold">05</text>
-  <text x="80" y="46" font-size="18" letter-spacing="3" fill="#e6e6ec">THE ROUTE</text>
-  <line x1="270" y1="38" x2="990" y2="38" stroke="#2a2a33" stroke-width="1"/>
-  <text x="1150" y="46" font-size="13" fill="#6f6f78" text-anchor="end">~/05-journey</text>
+  <text x="0" y="56" font-size="62" fill="#ffffff" font-weight="bold">04</text>
+  <text x="90" y="48" font-size="20" letter-spacing="3" fill="#e6e6ec">THE ROUTE</text>
+  <line x1="290" y1="40" x2="990" y2="40" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
+    <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
+  </line>
+  <text x="1150" y="48" font-size="13" fill="#6f6f78" text-anchor="end">~/04-journey</text>
 
-  <line x1="0" y1="110" x2="1150" y2="110" stroke="#3a3a45" stroke-width="1"/>
+  <line x1="0" y1="118" x2="1150" y2="118" stroke="#3a3a45" stroke-width="1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+    <animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </line>
 
-  <circle cx="60" cy="110" r="5" fill="#ffffff"/>
-  <text x="60" y="90" font-size="13" fill="#e6e6ec" text-anchor="middle">2023</text>
-  <text x="60" y="132" font-size="12" fill="#8b8b93" text-anchor="middle">degree started</text>
+  <circle cx="60" cy="118" r="5" fill="#ffffff"/>
+  <text x="60" y="96" font-size="14" fill="#e6e6ec" text-anchor="middle">2023</text>
+  <text x="60" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">degree started</text>
 
-  <circle cx="420" cy="110" r="5" fill="#ffffff"/>
-  <text x="420" y="90" font-size="13" fill="#e6e6ec" text-anchor="middle">2024</text>
-  <text x="420" y="132" font-size="12" fill="#8b8b93" text-anchor="middle">started coding</text>
+  <circle cx="420" cy="118" r="5" fill="#ffffff"/>
+  <text x="420" y="96" font-size="14" fill="#e6e6ec" text-anchor="middle">2024</text>
+  <text x="420" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">started coding</text>
 
-  <circle cx="780" cy="110" r="5" fill="#ffffff"/>
-  <text x="780" y="90" font-size="13" fill="#e6e6ec" text-anchor="middle">2025</text>
-  <text x="780" y="132" font-size="12" fill="#8b8b93" text-anchor="middle">first commit — Aug</text>
+  <circle cx="780" cy="118" r="5" fill="#ffffff"/>
+  <text x="780" y="96" font-size="14" fill="#e6e6ec" text-anchor="middle">2025</text>
+  <text x="780" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">first commit — Aug</text>
 
-  <circle cx="1090" cy="110" r="5" fill="#3ddc84"/>
-  <text x="1090" y="90" font-size="13" fill="#3ddc84" text-anchor="middle">now</text>
-  <text x="1090" y="132" font-size="12" fill="#8b8b93" text-anchor="middle">building AI/CV projects</text>
+  <circle cx="1090" cy="118" r="5" fill="#3ddc84"/>
+  <text x="1090" y="96" font-size="14" fill="#3ddc84" text-anchor="middle">now</text>
+  <text x="1090" y="142" font-size="13" fill="#8b8b93" text-anchor="middle">building AI/CV projects</text>
 
-  <line x1="0" y1="170" x2="1150" y2="170" stroke="#2a2a33" stroke-width="1"/>
+  <line x1="0" y1="182" x2="1150" y2="182" stroke="#2a2a33" stroke-width="1"/>
 
-  <text x="0" y="204" font-size="13" fill="#7c7c85">2023 —</text>
-  <text x="130" y="204" font-size="15" fill="#d6d6dc">B.Tech, Shri Ramdeobaba College Of Engineering And Management</text>
+  <text x="0" y="220" font-size="14" fill="#7c7c85">2023 —</text>
+  <text x="140" y="220" font-size="17" fill="#d6d6dc">B.Tech, Shri Ramdeobaba College Of Engineering And Management</text>
 
-  <text x="0" y="236" font-size="13" fill="#7c7c85">2025 —</text>
-  <text x="130" y="236" font-size="15" fill="#d6d6dc">Building AI/ML &amp; computer vision projects — Python, OpenCV, RAG</text>
+  <text x="0" y="256" font-size="14" fill="#7c7c85">2025 —</text>
+  <text x="140" y="256" font-size="17" fill="#d6d6dc">Building AI/ML &amp; computer vision projects — Python, OpenCV, RAG</text>
 </svg>
