@@ -1,31 +1,33 @@
-<svg width="1150" height="360" viewBox="0 0 1150 360" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
-  <rect width="1150" height="360" fill="#0d1117"/>
+<svg width="1150" height="380" viewBox="0 0 1150 380" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
+  <rect width="1150" height="380" fill="#0d1117"/>
 
-  <text x="0" y="52" font-size="56" fill="#ffffff" font-weight="bold">04</text>
-  <text x="80" y="46" font-size="18" letter-spacing="3" fill="#e6e6ec">TELEMETRY</text>
-  <line x1="300" y1="38" x2="990" y2="38" stroke="#2a2a33" stroke-width="1"/>
-  <text x="1150" y="46" font-size="13" fill="#6f6f78" text-anchor="end">~/04-telemetry</text>
+  <text x="0" y="56" font-size="62" fill="#ffffff" font-weight="bold">03</text>
+  <text x="90" y="48" font-size="20" letter-spacing="3" fill="#e6e6ec">TELEMETRY</text>
+  <line x1="320" y1="40" x2="990" y2="40" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
+    <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
+  </line>
+  <text x="1150" y="48" font-size="13" fill="#6f6f78" text-anchor="end">~/03-telemetry</text>
 
-  <rect x="0" y="80" width="360" height="255" fill="none" stroke="#2a2a33" stroke-width="1"/>
-  <text x="20" y="112" font-size="14" letter-spacing="1" fill="#e6e6ec">REPOSITORY OVERVIEW</text>
-  <line x1="20" y1="126" x2="340" y2="126" stroke="#20202a" stroke-width="1"/>
+  <rect x="0" y="90" width="360" height="270" fill="none" stroke="#2a2a33" stroke-width="1"/>
+  <text x="20" y="124" font-size="15" letter-spacing="1" fill="#e6e6ec">REPOSITORY OVERVIEW</text>
+  <line x1="20" y1="140" x2="340" y2="140" stroke="#20202a" stroke-width="1"/>
 
-  <text x="20" y="166" font-size="15" fill="#b7b7bf">Public repositories</text>
-  <text x="340" y="166" font-size="15" fill="#ffffff" text-anchor="end">5</text>
+  <text x="20" y="184" font-size="17" fill="#b7b7bf">Public repositories</text>
+  <text x="340" y="184" font-size="17" fill="#ffffff" text-anchor="end">5</text>
 
-  <text x="20" y="204" font-size="15" fill="#b7b7bf">Contributions (last year)</text>
-  <text x="340" y="204" font-size="15" fill="#ffffff" text-anchor="end">55</text>
+  <text x="20" y="226" font-size="17" fill="#b7b7bf">Contributions (last year)</text>
+  <text x="340" y="226" font-size="17" fill="#ffffff" text-anchor="end">55</text>
 
-  <text x="20" y="242" font-size="15" fill="#b7b7bf">Primary language</text>
-  <text x="340" y="242" font-size="15" fill="#ffffff" text-anchor="end">Python</text>
+  <text x="20" y="268" font-size="17" fill="#b7b7bf">Primary language</text>
+  <text x="340" y="268" font-size="17" fill="#ffffff" text-anchor="end">Python</text>
 
-  <text x="20" y="280" font-size="15" fill="#b7b7bf">Focus area</text>
-  <text x="340" y="280" font-size="15" fill="#ffffff" text-anchor="end">AI / CV</text>
+  <text x="20" y="310" font-size="17" fill="#b7b7bf">Focus area</text>
+  <text x="340" y="310" font-size="17" fill="#ffffff" text-anchor="end">AI / CV</text>
 
-  <rect x="390" y="80" width="760" height="255" fill="none" stroke="#2a2a33" stroke-width="1"/>
-  <text x="410" y="112" font-size="14" letter-spacing="1" fill="#e6e6ec">LIVE DATA</text>
-  <line x1="410" y1="126" x2="1130" y2="126" stroke="#20202a" stroke-width="1"/>
-  <text x="410" y="166" font-size="15" fill="#b7b7bf">Language distribution, streaks, and commit activity are</text>
-  <text x="410" y="192" font-size="15" fill="#b7b7bf">rendered live below via GitHub stats widgets — always</text>
-  <text x="410" y="218" font-size="15" fill="#b7b7bf">current, no manual updates needed.</text>
+  <rect x="390" y="90" width="760" height="270" fill="none" stroke="#2a2a33" stroke-width="1"/>
+  <text x="410" y="124" font-size="15" letter-spacing="1" fill="#e6e6ec">LIVE DATA</text>
+  <line x1="410" y1="140" x2="1130" y2="140" stroke="#20202a" stroke-width="1"/>
+  <text x="410" y="184" font-size="17" fill="#b7b7bf">Language distribution, streaks, and commit activity are</text>
+  <text x="410" y="212" font-size="17" fill="#b7b7bf">rendered live below via GitHub stats widgets — always</text>
+  <text x="410" y="240" font-size="17" fill="#b7b7bf">current, no manual updates needed.</text>
 </svg>
