@@ -1,18 +1,18 @@
-<svg width="1280" height="270" viewBox="0 0 1280 270" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
-  <rect width="1280" height="270" fill="#0d1117"/>
-  <text x="30" y="38" font-size="15" letter-spacing="2" fill="#8b8b93">PORTFOLIO — INDEX Nº 001</text>
+<svg width="1280" height="280" viewBox="0 0 1280 280" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace">
+  <rect width="1280" height="280" fill="#0d1117"/>
+  <text x="30" y="38" font-size="15" letter-spacing="2" fill="#8b8b93">PORTFOLIO — INDEX № 001</text>
   <text x="1250" y="38" font-size="15" letter-spacing="2" fill="#8b8b93" text-anchor="end">NAGPUR, IN — 21.14° N</text>
   <line x1="30" y1="54" x2="1250" y2="54" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
     <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
   </line>
 
-  <text x="30" y="150" font-size="86" fill="#ffffff" font-weight="bold">Aarya Bhangadia</text>
-  <text x="30" y="186" font-size="22" fill="#c9c9d1">AI/ML Developer — Computer Vision, Python.</text>
+  <text x="30" y="145" font-size="70" fill="#ffffff" font-weight="bold">Aarya Bhangadia</text>
+  <text x="30" y="194" font-size="22" fill="#c9c9d1">AI/ML Developer — Computer Vision, Python.</text>
 
-  <text x="30" y="220" font-size="16" fill="#9a9aa3">focus ▸  computer vision · applied machine learning · AI-native applications</text>
-  <text x="30" y="244" font-size="16" fill="#9a9aa3">open to ▸  internships · collaboration · research</text>
+  <text x="30" y="230" font-size="16" fill="#9a9aa3">focus &#8250;  computer vision · applied machine learning · AI-native applications</text>
+  <text x="30" y="254" font-size="16" fill="#9a9aa3">open to &#8250;  internships · collaboration · research</text>
 
-  <line x1="30" y1="258" x2="1250" y2="258" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
+  <line x1="30" y1="268" x2="1250" y2="268" stroke="#3a3a45" stroke-width="1" stroke-dasharray="6 4">
     <animate attributeName="stroke-dashoffset" values="0;-20" dur="1s" repeatCount="indefinite"/>
   </line>
 </svg>
